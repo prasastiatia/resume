@@ -127,7 +127,7 @@ export default class Porfolio extends Component {
 
         <div id="modal-02" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/service.JPG" alt="" />
+		      <img class="scale-with-grid" src="images/portfolio/service.jpg" alt="" />
 
 		      <div class="description-box">
 			      <h4>Service Car Website</h4>
