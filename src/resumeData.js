@@ -83,7 +83,7 @@ let resumeData = {
     {
       "name":"Service Car Website",
       "description":"Web App",
-      "imgurl":"images/portfolio/service.JPG",
+      "imgurl":"images/portfolio/service.jpg",
 
       "name1":"SFS Law Office Website",
       "description1":"Web App",
