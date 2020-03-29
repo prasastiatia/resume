@@ -56,7 +56,7 @@ let resumeData = {
         
       ],
 
-      "skillsDescription":"Your skills here",
+      "skillsDescription":"My Skills",
       "skills":[
           {"skillName1"   : "Web Programming",
           "skillName2"    : "Database",
