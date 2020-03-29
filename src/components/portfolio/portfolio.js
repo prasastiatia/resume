@@ -25,19 +25,7 @@ export default class Porfolio extends Component {
                   </div>
                   <br/>
 
-                  <div className="item-wrap">
-                    <a href="#modal-02">
-                      <img src={`${item.imgurl}`} className="item-img"/>
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
-                          <p>{item.description}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-
-                  <br/>
+                 
                   <div className="item-wrap">
                     <a href="#modal-03">
                       <img src={`${item.imgurl2}`} className="item-img"/>
@@ -125,23 +113,7 @@ export default class Porfolio extends Component {
           
 	      </div>
 
-        <div id="modal-02" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/service.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Service Car Website</h4>
-			      <p>
-            This website is a website for car service. The main feature on this website is scheduling of car services.
-            </p>
-               <span class="categories"><i class="fa fa-tag"></i>Website, Laravel</span>
-		      </div>
-
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
-
-	      </div>
+       
 
         <div id="modal-03" class="popup-modal mfp-hide">
 
