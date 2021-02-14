@@ -42,15 +42,20 @@ let resumeData = {
 
       "experiences":[
         {
-          "companyName1":"PKK Depok",
-          "job1":"Freelance Web Developer",
-          "year1":"Sep 2019 - Mar 2020",
-          "jobDesc1" : "Make a website Management Information System for PKK in Depok",
+          "companyName1":"PT. Ruma Indonesia Digital",
+          "job1":"Junior Web Developer",
+          "year1":"Jul 2020 - Present",
+          "jobDesc1" : "Manage Data in SuiteCRM, Made chatbot whatsapp, Support at Technology",
+
+          "companyName2":"PKK Depok",
+          "job2":"Freelance Web Developer",
+          "year2":"Sep 2019 - Mar 2020",
+          "jobDesc2" : "Make a website Management Information System for PKK in Depok",
           
-          "companyName2":"Basic Physics Laboratory of Gunadarma University",
-          "job2":"Assistant",
-          "year2":"Sep 2017 - Jan 2020",
-          "jobDesc2" : "Help students to do a basic physics practicum",
+          "companyName3":"Basic Physics Laboratory of Gunadarma University",
+          "job3":"Assistant",
+          "year3":"Sep 2017 - Jan 2020",
+          "jobDesc3" : "Help students to do a basic physics practicum",
 
         }
         
@@ -74,7 +79,8 @@ let resumeData = {
           "skillDesktop3" : "ActionScript 3.0",
           "skillSoftware1" : "Microsoft Office",
           "skillSoftware2" : "Adobe Animate CC ",
-          "skillSoftware3" : "ERPNext"
+          "skillSoftware3" : "ERPNext",
+          "skillSoftware4" : "SuiteCRM"
 
       }
   ],
