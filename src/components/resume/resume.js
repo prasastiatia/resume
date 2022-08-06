@@ -125,15 +125,24 @@ export default class Resume extends Component {
                           <div className="row item">
                           <span className="  twelve columns hitam">  {item.skillSoftware1}
                           <br/>{item.skillSoftware2} <br/> {item.skillSoftware3} <br/> {item.skillSoftware4}
+                          <br/> {item.skillSoftware5}
                           </span>
                           </div>
 
                           <br/>
                           <h4>{item.skillName4}</h4>
                           <div className="row item">
-                          <span className="  twelve columns hitam">  {item.skillDesktop1}
-                          <br/>{item.skillDesktop2} <br/> {item.skillDesktop3} 
+                          <span className="  twelve columns hitam">  {item.skillChatbot1}
+                          <br/>{item.skillChatbot2} <br/> {item.skillChatbot3} <br/> {item.skillChatbot4}
                           </span>
+
+                          <br/>
+                          <h4>{item.skillName5}</h4>
+                          <div className="row item">
+                          <span className="  twelve columns hitam">  {item.skillVersion1}
+                          </span>
+                          </div>
+                          
                           </div>
                        </div>
                     </div>
