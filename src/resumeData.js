@@ -27,7 +27,7 @@ let resumeData = {
         "className":"fa fa-email"
       }
     ],
-    "aboutme":"I was born in Jakarta on August 15, 1997. The applications that I have made are Desktop Based Learning Applications, SFS Law Office Websites with Laravel Framework, and  Management Information System Website for PKK Kota Depok.",
+    "aboutme":"Experienced Developer with a demonstrated history of working as Web Developer for 2 years.Proficient in PHP, HTML/CSS/JS, CRM System, and MySQL. I like to code a web application or chatbot development. I enjoy learning new things in the IT area",
     "education":[
         {
           "UniversityName":"Gunadarma University",
@@ -42,20 +42,20 @@ let resumeData = {
 
       "experiences":[
         {
-          "companyName1":"PT. Ruma Indonesia Digital",
+          "companyName1":"PT. Automata Neo Solutions",
           "job1":"Junior Web Developer",
           "year1":"Jul 2020 - Present",
-          "jobDesc1" : "Manage Data in SuiteCRM, Made chatbot whatsapp, Support at Technology",
+          "jobDesc1" : "Build and maintain CRM System for Rumaid and U-Lab, Make integration between Whatsapp and CRM System by Whatsapp API, Make Rumaid Whatsapp Chatbot with Dialogflow requests",
 
           "companyName2":"PKK Depok",
           "job2":"Freelance Web Developer",
           "year2":"Sep 2019 - Mar 2020",
-          "jobDesc2" : "Make a website Management Information System for PKK in Depok",
+          "jobDesc2" : "Built a Management Information System for PKK in Depok",
           
-          "companyName3":"Basic Physics Laboratory of Gunadarma University",
-          "job3":"Assistant",
-          "year3":"Sep 2017 - Jan 2020",
-          "jobDesc3" : "Help students to do a basic physics practicum",
+          "companyName3":"SFS Law Office",
+          "job3":"Freelance Web Developer",
+          "year3":"February, 2020 - September, 2020",
+          "jobDesc3" : "Built a SFS Law Office website using Laravel Framework",
 
         }
         
@@ -63,24 +63,28 @@ let resumeData = {
 
       "skillsDescription":"My Skills",
       "skills":[
-          {"skillName1"   : "Web Programming",
+          {"skillName1"   : "Web Development",
           "skillName2"    : "Database",
           "skillName3"    : "Software Application",
-          "skillName4"    : "Desktop Programming",
+          "skillName4"    : "Chatbot Development",
+          "skillName5"    : "Version Control",
           "skillWeb1"     : "PHP (Framework Laravel and Codeigniter)",
-          "skillWeb2"     : "HTML",
-          "skillWeb3"     : "CSS and Bootstrap",
-          "skillWeb4"     : "Javascript and AJAX",
+          "skillWeb2"     : "HTML/CSS/JS",
+          "skillWeb3"     : "CRM System",
+          "skillWeb4"     : "REST API",
           "skillWeb5"     : "ReactJS (a little bit)",
           "skillWeb6"     : "Python",
           "skillDb1"      : "MySQL",
-          "skillDesktop1" : "Java (a little bit)",
-          "skillDesktop2" : "VB 6 and VB.NET",
-          "skillDesktop3" : "ActionScript 3.0",
+          "skillChatbot1"  : "NodeJS",
+          "skillChatbot2"  : "third party APIs",
+          "skillChatbot3"  : "PHP (Non Framework)",
+          "skillChatbot4"  : "Dialogflow",
           "skillSoftware1" : "Microsoft Office",
           "skillSoftware2" : "Adobe Animate CC ",
           "skillSoftware3" : "ERPNext",
-          "skillSoftware4" : "SuiteCRM"
+          "skillSoftware4" : "SuiteCRM",
+          "skillSoftware5" :  "InfyCRM Laravel",
+          "skillVersion1"  : "Git (Github/Bitbucket/Gitlab)"
 
       }
   ],
