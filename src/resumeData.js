@@ -1,15 +1,13 @@
 let resumeData = {
     "imagebaseurl":"http://localhost:3000/",
     "name": "Prasastia Aryani Saliha",
-    "role1": "Web Developer",
-    "role2": "Desktop Programmer",
     "linkedin":"https://www.linkedin.com/in/prasastia-aryani-saliha",
     "linkedinId":"Prasastia Aryani Saliha",
     "github" : "https://www.github.com/prasastiatia",
     "instagram" :"https://www.instagram.com/prasastiaasaliha/",
     "email" :"prasastiaas@gmail.com",
     "address" :"Depok, Jawa Barat",
-    "roleDescription": "I like to code. I'm interested in web and desktop programming.",
+    "roleDescription": "experienced Web Developer with 2+ years of experience",
     "socialLinks":[
       {
         "name":"linkedin",
@@ -27,14 +25,13 @@ let resumeData = {
         "className":"fa fa-email"
       }
     ],
-    "aboutme":"Experienced Developer with a demonstrated history of working as Web Developer for 2 years.Proficient in PHP, HTML/CSS/JS, CRM System, and MySQL. I like to code a web application or chatbot development. I enjoy learning new things in the IT area",
+    "aboutme":"Experienced Web Developer with 2+ years of experience in challenging development environments. Now, focus on PHP Language [Laravel Framework], MySQL Database, Make several APIs with Laravel. Interested in learning new programming languages like NodeJS or Golang.",
     "education":[
         {
           "UniversityName":"Gunadarma University",
           "specialization":"Bachelor of Science in Information Systems (S1)",
           "GradYear":"2015-2019",
-          "GPA":"3.70 from 4.00",
-          "active" : "Being assistant at Basic Physics Laboratory Gunadarma"
+          "GPA":"3.70 from 4.00"
          
         }
         
@@ -45,16 +42,20 @@ let resumeData = {
           "companyName1":"PT. Automata Neo Solutions",
           "job1":"Junior Web Developer",
           "year1":"Jul 2020 - Present",
+          "project1": "Ruma.id CRM System",
+          "project2": "U-Lab CRM System",
           "jobDesc1" : "Build and maintain CRM System for Rumaid and U-Lab, Make integration between Whatsapp and CRM System by Whatsapp API, Make Rumaid Whatsapp Chatbot with Dialogflow requests",
 
           "companyName2":"PKK Depok",
           "job2":"Freelance Web Developer",
           "year2":"Sep 2019 - Mar 2020",
+          "project3": "PKK Depok MIS (Management Information System)",
           "jobDesc2" : "Built a Management Information System for PKK in Depok",
           
           "companyName3":"SFS Law Office",
           "job3":"Freelance Web Developer",
           "year3":"February, 2020 - September, 2020",
+          "project4": "Web-based client scheduling application for SFS Law Office",
           "jobDesc3" : "Built a SFS Law Office website using Laravel Framework",
 
         }
