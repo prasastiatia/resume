@@ -1,19 +1,26 @@
-name: Deploy Portfolio Website
+name: Deployment
 on:
   push:
     branches:
       - master
-
 jobs:
-  build-test-deploy:
+  deploy:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Set-up Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: "10.x"
-      - run: npm install
-      - run: npm run predeploy
-      - run: npm run deploy
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install Packages
+      run: npm install
+    - name: Build page
+      run: npm run build
+    - name: Deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.REPO_TOKEN }}
+        publish_dir: ./resume
