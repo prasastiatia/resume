@@ -20,4 +20,6 @@ jobs:
     - name: Build page
       run: npm run build
     - name: Deploy to gh-pages
-      run: npm run deploy 
+      run: npm run deploy
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
