@@ -1028,6 +1028,8 @@ footer .social-links li:first-child { margin-left: 0; }
   animation: 20s slidy infinite;
 }
 
+.under { text-decoration: underline; }
+
 @keyframes slidy{
   0%{
     left: 0%
@@ -1100,5 +1102,7 @@ footer .social-links li:first-child { margin-left: 0; }
   100%{
     left: 0%;
   }
+
+  
 }
 
