@@ -41,7 +41,7 @@ let resumeData = {
         {
           "companyName1":"PT. Automata Neo Solutions",
           "job1":"Junior Web Developer",
-          "year1":"Jul 2020 - Present",
+          "year1":"Jul 2020 - Jan 2023",
           "project1": "Ruma.id CRM System",
           "project2": "U-Lab CRM System",
           "jobDesc1" : "Build and maintain CRM System for Rumaid and U-Lab, Make integration between Whatsapp and CRM System by Whatsapp API, Make Rumaid Whatsapp Chatbot with Dialogflow requests",
