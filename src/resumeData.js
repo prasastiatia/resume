@@ -94,7 +94,7 @@ let resumeData = {
           "skillSoftware6" :  "Jira",
           "skillSoftware7" :  "Confluence",
           "skillVersion1"  : "Git (Github/Bitbucket/Gitlab)",
-          "skillBE1"        : "Node.js (Express js & Hapi js Framework",
+          "skillBE1"        : "Node.js (Express js & Hapi js Framework)",
           "skillBE2"        : "MySQL",
           "skillBE3"        : "Unit Testing",
           "skillBE4"        : "Jest",
