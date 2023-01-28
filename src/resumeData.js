@@ -74,6 +74,7 @@ let resumeData = {
           "skillName3"    : "Software Application",
           "skillName4"    : "Chatbot Development",
           "skillName5"    : "Version Control",
+          "skillName6"    : "Backend Development",
           "skillWeb1"     : "PHP (Framework Laravel and Codeigniter)",
           "skillWeb2"     : "HTML/CSS/JS",
           "skillWeb3"     : "CRM System",
@@ -90,7 +91,16 @@ let resumeData = {
           "skillSoftware3" : "ERPNext",
           "skillSoftware4" : "SuiteCRM",
           "skillSoftware5" :  "InfyCRM Laravel",
-          "skillVersion1"  : "Git (Github/Bitbucket/Gitlab)"
+          "skillSoftware6" :  "Jira",
+          "skillSoftware7" :  "Confluence",
+          "skillVersion1"  : "Git (Github/Bitbucket/Gitlab)",
+          "skillBE1"        : "Node.js (Express js & Hapi js Framework",
+          "skillBE2"        : "MySQL",
+          "skillBE3"        : "Unit Testing",
+          "skillBE4"        : "Jest",
+          "skillBE5"        : "Jenkins",
+          "skillBE6"        : "Docker",
+          "skillBE7"        : "JSON",
 
       }
   ],

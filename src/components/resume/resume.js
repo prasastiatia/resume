@@ -143,11 +143,21 @@ export default class Resume extends Component {
                   return(
                     <div className="row item">
                        <div className="twelve columns">
+
                           <h4>{item.skillName1}</h4>
                           <div className="row item">
                           <span className="  twelve columns hitam">  {item.skillWeb1}
                           <br/>{item.skillWeb2} <br/> {item.skillWeb3} <br/> {item.skillWeb4} 
                           <br/> {item.skillWeb5} <br/> {item.skillWeb6}
+                          </span>
+                          </div>
+
+                          <br/>
+                          <h4>{item.skillName6}</h4>
+                          <div className="row item">
+                          <span className="  twelve columns hitam">  {item.skillBE1}
+                          <br/>{item.skillBE2} <br/> {item.skillBE3} <br/> {item.skillBE4} 
+                          <br/> {item.skillBE5} <br/> {item.skillBE6}<br/> {item.skillBE7}
                           </span>
                           </div>
 
@@ -161,7 +171,7 @@ export default class Resume extends Component {
                           <h4>{item.skillName3}</h4>
                           <div className="row item">
                           <span className="  twelve columns hitam">   {item.skillSoftware3} <br/> {item.skillSoftware4}
-                          <br/> {item.skillSoftware5}
+                          <br/> {item.skillSoftware5} <br/> {item.skillSoftware6}<br/> {item.skillSoftware7}
                           </span>
                           </div>
 
