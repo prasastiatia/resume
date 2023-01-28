@@ -49,6 +49,23 @@ export default class Resume extends Component {
                   return(
                     <div className="row item">
                        <div className="twelve columns">
+
+                          <h3>{item.companyName4}</h3>
+                          <div className="row item">
+                          <h4 className="twelve columns">
+                          {item.job4} 
+                          | {item.year4} </h4>
+                          </div>
+                          <h5>Project : {item.project5}</h5>
+                          <div className="row item">
+                          <span className="  twelve columns under">Job Description </span>
+                          <span className="  twelve columns" > 1. Help another developer to create an API and bug fixing several APIs</span>
+                          <span className="  twelve columns"> 2. Help another developer for reviewing their code in GIT</span>
+                          <span className="  twelve columns"> 3. Deploy the new API to server with Jenkins</span>
+                          <span className="  twelve columns"> 4. Deploy new route API for microservices with Jenkins</span>
+                          </div>
+                          <br/>
+
                           <h3>{item.companyName1}</h3>
                           <div className="row item">
                           <h4 className="twelve columns">
@@ -78,6 +95,7 @@ export default class Resume extends Component {
                           
                         
                           <br/>
+
                           <h3>{item.companyName2}</h3>
                           <div className="row item">
                           <h4 className="twelve columns">

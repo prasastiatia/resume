@@ -7,7 +7,7 @@ let resumeData = {
     "instagram" :"https://www.instagram.com/prasastiaasaliha/",
     "email" :"prasastiaas@gmail.com",
     "address" :"Depok, Jawa Barat",
-    "roleDescription": "experienced Web Developer with 2+ years of experience",
+    "roleDescription": "experienced Software Engineer with 2+ years of experience [Web & Backend Development]",
     "socialLinks":[
       {
         "name":"linkedin",
@@ -25,7 +25,7 @@ let resumeData = {
         "className":"fa fa-email"
       }
     ],
-    "aboutme":"Experienced Web Developer with 2+ years of experience in challenging development environments. Now, focus on PHP Language [Laravel Framework], MySQL Database, Make several APIs with Laravel. Interested in learning new programming languages like NodeJS or Golang.",
+    "aboutme":"Software Engineer with 2+ years of Web Development experience and currently focused in Backend Development. Now, concentrate on Node.js [Express Framework], MySQL Database, and creating several APIs with Node.js. Interested in learning new programming languages such as Golang.",
     "education":[
         {
           "UniversityName":"Gunadarma University",
@@ -54,9 +54,14 @@ let resumeData = {
           
           "companyName3":"SFS Law Office",
           "job3":"Freelance Web Developer",
-          "year3":"February, 2020 - September, 2020",
+          "year3":"Feb 2020 - Sept 2020",
           "project4": "Web-based client scheduling application for SFS Law Office",
           "jobDesc3" : "Built a SFS Law Office website using Laravel Framework",
+
+          "companyName4": "PT. Phincon",
+          "job4": "Middleware Engineer / Backend Engineer",
+          "year4": "Jan 2023 - Present",
+          "project5": "MyTelkomselApps",
 
         }
         
